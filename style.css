@@ -19,9 +19,20 @@ h2{
     color: white;
 }
 
+
+
 .video{
    margin-top: 20px;
    display: flex;
    align-items: center;
    justify-content: center;
+   margin-bottom: 10px;
+}
+
+a h3{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 10px;
+
 }
